@@ -6,3 +6,9 @@ theme = "hugo-theme-codex"
 [params]
   twitter = "https://twitter.com/gustavotiberio"
   github = "https://github.com/gtiberio"
+
+[[menu.main]]
+  identifier = "blog"
+  name = "blog"
+  title = "blog"
+  url = "/blog"
